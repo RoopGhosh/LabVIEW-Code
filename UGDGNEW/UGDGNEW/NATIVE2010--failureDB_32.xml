@@ -1,0 +1,4592 @@
+<Array>
+<Name> Failure Array</Name>
+<Dimsize>33</Dimsize>
+<Cluster>
+<Name>Failure Cluster</Name>
+<NumElts>12</NumElts>
+<Array>
+<Name>VI</Name>
+<Dimsize>3</Dimsize>
+<String>
+<Name>String</Name>
+<Val>CodeCoverage</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>SubTests</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>lots_of_nodes_dynamic_loader.vi</Val>
+</String>
+</Array>
+<EW>
+<Name>Status</Name>
+<Choice></Choice>
+<Choice>new</Choice>
+<Choice>passed</Choice>
+<Choice>known</Choice>
+<Val>3</Val>
+</EW>
+<Boolean>
+<Name>Crash</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Linux</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Mac</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Windows</Name>
+<Val>1</Val>
+</Boolean>
+<String>
+<Name>Comments</Name>
+<Val>Test failed differently than last time.	erratic</Val>
+</String>
+<Timestamp>
+<Name>First Reported</Name>
+<Cluster>
+<Name></Name>
+<NumElts>4</NumElts>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>1985787904</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>-924181299</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+</Cluster>
+</Timestamp>
+<String>
+<Name>CAR</Name>
+<Val>227749</Val>
+</String>
+<Boolean>
+<Name>Paused</Name>
+<Val>0</Val>
+</Boolean>
+<Array>
+<Name>failure_desc</Name>
+<Dimsize>1</Dimsize>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>The CodeCoverage load/unload stress test yielded percentage slowdown results with a maximum of 12.546076, and a minimum of 7.018579.  No runs were within the defined allowable range of 0 to 5.</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+</Array>
+<I32>
+<Name>Id</Name>
+<Val>3204</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name>Failure Cluster</Name>
+<NumElts>12</NumElts>
+<Array>
+<Name>VI</Name>
+<Dimsize>4</Dimsize>
+<String>
+<Name>String</Name>
+<Val>Project</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>group</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>individual</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>projecttest_testDeletingLibItems.vi</Val>
+</String>
+</Array>
+<EW>
+<Name>Status</Name>
+<Choice></Choice>
+<Choice>new</Choice>
+<Choice>passed</Choice>
+<Choice>known</Choice>
+<Val>2</Val>
+</EW>
+<Boolean>
+<Name>Crash</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Linux</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Mac</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Windows</Name>
+<Val>1</Val>
+</Boolean>
+<String>
+<Name>Comments</Name>
+<Val>	erratic</Val>
+</String>
+<Timestamp>
+<Name>First Reported</Name>
+<Cluster>
+<Name></Name>
+<NumElts>4</NumElts>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>1214627840</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>-923247685</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+</Cluster>
+</Timestamp>
+<String>
+<Name>CAR</Name>
+<Val>242850</Val>
+</String>
+<Boolean>
+<Name>Paused</Name>
+<Val>0</Val>
+</Boolean>
+<Array>
+<Name>failure_desc</Name>
+<Dimsize>1</Dimsize>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>0 (C:\builds\penguin\labview\branches\2010\dev\tests\auto\Project\group\tests\deletingLibItems\testDeletingLibItems.vi) </Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+</Array>
+<I32>
+<Name>Id</Name>
+<Val>3206</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name>Failure Cluster</Name>
+<NumElts>12</NumElts>
+<Array>
+<Name>VI</Name>
+<Dimsize>3</Dimsize>
+<String>
+<Name>String</Name>
+<Val>bigtest_stub</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>dsptest</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>bigtest_Tst 1D InvCxFFT.vi</Val>
+</String>
+</Array>
+<EW>
+<Name>Status</Name>
+<Choice></Choice>
+<Choice>new</Choice>
+<Choice>passed</Choice>
+<Choice>known</Choice>
+<Val>2</Val>
+</EW>
+<Boolean>
+<Name>Crash</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Linux</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Mac</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Windows</Name>
+<Val>1</Val>
+</Boolean>
+<String>
+<Name>Comments</Name>
+<Val>erratic</Val>
+</String>
+<Timestamp>
+<Name>First Reported</Name>
+<Cluster>
+<Name></Name>
+<NumElts>4</NumElts>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>39630848</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>-924113290</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+</Cluster>
+</Timestamp>
+<String>
+<Name>CAR</Name>
+<Val>253471</Val>
+</String>
+<Boolean>
+<Name>Paused</Name>
+<Val>0</Val>
+</Boolean>
+<Array>
+<Name>failure_desc</Name>
+<Dimsize>2</Dimsize>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val></Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Failure in: Odd Size</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+</Array>
+<I32>
+<Name>Id</Name>
+<Val>3205</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name>Failure Cluster</Name>
+<NumElts>12</NumElts>
+<Array>
+<Name>VI</Name>
+<Dimsize>3</Dimsize>
+<String>
+<Name>String</Name>
+<Val>MathScript</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>MathScriptEnumInputs</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>MathScript_EnumInputs_AutoTest.vi</Val>
+</String>
+</Array>
+<EW>
+<Name>Status</Name>
+<Choice></Choice>
+<Choice>new</Choice>
+<Choice>passed</Choice>
+<Choice>known</Choice>
+<Val>3</Val>
+</EW>
+<Boolean>
+<Name>Crash</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Linux</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Mac</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Windows</Name>
+<Val>1</Val>
+</Boolean>
+<String>
+<Name>Comments</Name>
+<Val>	</Val>
+</String>
+<Timestamp>
+<Name>First Reported</Name>
+<Cluster>
+<Name></Name>
+<NumElts>4</NumElts>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>-1039968256</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>-936550788</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+</Cluster>
+</Timestamp>
+<String>
+<Name>CAR</Name>
+<Val></Val>
+</String>
+<Boolean>
+<Name>Paused</Name>
+<Val>1</Val>
+</Boolean>
+<Array>
+<Name>failure_desc</Name>
+<Dimsize>1</Dimsize>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Load not sucessful/Path/VI mismatch/Bad Connector Pane</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+</Array>
+<I32>
+<Name>Id</Name>
+<Val>3183</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name>Failure Cluster</Name>
+<NumElts>12</NumElts>
+<Array>
+<Name>VI</Name>
+<Dimsize>2</Dimsize>
+<String>
+<Name>String</Name>
+<Val>tdms</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>TDMS_Adv_AsyncReadTimeout.vi</Val>
+</String>
+</Array>
+<EW>
+<Name>Status</Name>
+<Choice></Choice>
+<Choice>new</Choice>
+<Choice>passed</Choice>
+<Choice>known</Choice>
+<Val>3</Val>
+</EW>
+<Boolean>
+<Name>Crash</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>Linux</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Mac</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Windows</Name>
+<Val>1</Val>
+</Boolean>
+<String>
+<Name>Comments</Name>
+<Val>	</Val>
+</String>
+<Timestamp>
+<Name>First Reported</Name>
+<Cluster>
+<Name></Name>
+<NumElts>4</NumElts>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>-918095872</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>-936620684</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+</Cluster>
+</Timestamp>
+<String>
+<Name>CAR</Name>
+<Val></Val>
+</String>
+<Boolean>
+<Name>Paused</Name>
+<Val>1</Val>
+</Boolean>
+<Array>
+<Name>failure_desc</Name>
+<Dimsize>1</Dimsize>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>crash</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+</Array>
+<I32>
+<Name>Id</Name>
+<Val>3179</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name>Failure Cluster</Name>
+<NumElts>12</NumElts>
+<Array>
+<Name>VI</Name>
+<Dimsize>2</Dimsize>
+<String>
+<Name>String</Name>
+<Val>tdms</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>TDMS_Adv_Close_Timeout.vi</Val>
+</String>
+</Array>
+<EW>
+<Name>Status</Name>
+<Choice></Choice>
+<Choice>new</Choice>
+<Choice>passed</Choice>
+<Choice>known</Choice>
+<Val>3</Val>
+</EW>
+<Boolean>
+<Name>Crash</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Linux</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Mac</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Windows</Name>
+<Val>0</Val>
+</Boolean>
+<String>
+<Name>Comments</Name>
+<Val>hang-- safe rather than sorry</Val>
+</String>
+<Timestamp>
+<Name>First Reported</Name>
+<Cluster>
+<Name></Name>
+<NumElts>4</NumElts>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>-988555264</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>-936605735</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+</Cluster>
+</Timestamp>
+<String>
+<Name>CAR</Name>
+<Val></Val>
+</String>
+<Boolean>
+<Name>Paused</Name>
+<Val>1</Val>
+</Boolean>
+<Array>
+<Name>failure_desc</Name>
+<Dimsize>0</Dimsize>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val></Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val></Val>
+</EL>
+</Cluster>
+</Array>
+<I32>
+<Name>Id</Name>
+<Val>3180</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name>Failure Cluster</Name>
+<NumElts>12</NumElts>
+<Array>
+<Name>VI</Name>
+<Dimsize>2</Dimsize>
+<String>
+<Name>String</Name>
+<Val>tdms</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>TDMS_Adv_Write_Timeout.vi</Val>
+</String>
+</Array>
+<EW>
+<Name>Status</Name>
+<Choice></Choice>
+<Choice>new</Choice>
+<Choice>passed</Choice>
+<Choice>known</Choice>
+<Val>3</Val>
+</EW>
+<Boolean>
+<Name>Crash</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Linux</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Mac</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Windows</Name>
+<Val>0</Val>
+</Boolean>
+<String>
+<Name>Comments</Name>
+<Val>hang-- safe rather than sorry</Val>
+</String>
+<Timestamp>
+<Name>First Reported</Name>
+<Cluster>
+<Name></Name>
+<NumElts>4</NumElts>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>354729984</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>-936605694</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+</Cluster>
+</Timestamp>
+<String>
+<Name>CAR</Name>
+<Val></Val>
+</String>
+<Boolean>
+<Name>Paused</Name>
+<Val>1</Val>
+</Boolean>
+<Array>
+<Name>failure_desc</Name>
+<Dimsize>0</Dimsize>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val></Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val></Val>
+</EL>
+</Cluster>
+</Array>
+<I32>
+<Name>Id</Name>
+<Val>3181</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name>Failure Cluster</Name>
+<NumElts>12</NumElts>
+<Array>
+<Name>VI</Name>
+<Dimsize>3</Dimsize>
+<String>
+<Name>String</Name>
+<Val>MathScript</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>ColumnVector</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>ColumnVectorTestDriver.vi</Val>
+</String>
+</Array>
+<EW>
+<Name>Status</Name>
+<Choice></Choice>
+<Choice>new</Choice>
+<Choice>passed</Choice>
+<Choice>known</Choice>
+<Val>3</Val>
+</EW>
+<Boolean>
+<Name>Crash</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Linux</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Mac</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Windows</Name>
+<Val>1</Val>
+</Boolean>
+<String>
+<Name>Comments</Name>
+<Val>now running separately 	has MAC CAR; not stobbed.198536</Val>
+</String>
+<Timestamp>
+<Name>First Reported</Name>
+<Cluster>
+<Name></Name>
+<NumElts>4</NumElts>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>-269799424</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>-950940794</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+</Cluster>
+</Timestamp>
+<String>
+<Name>CAR</Name>
+<Val>MAC CAR 198536</Val>
+</String>
+<Boolean>
+<Name>Paused</Name>
+<Val>1</Val>
+</Boolean>
+<Array>
+<Name>failure_desc</Name>
+<Dimsize>1</Dimsize>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Load not sucessful/Path/VI mismatch/Bad Connector Pane</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+</Array>
+<I32>
+<Name>Id</Name>
+<Val>1314</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name>Failure Cluster</Name>
+<NumElts>12</NumElts>
+<Array>
+<Name>VI</Name>
+<Dimsize>3</Dimsize>
+<String>
+<Name>String</Name>
+<Val>MathScript</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>Debugging</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>MathScript_Breakpoints_AutoTest.vi</Val>
+</String>
+</Array>
+<EW>
+<Name>Status</Name>
+<Choice></Choice>
+<Choice>new</Choice>
+<Choice>passed</Choice>
+<Choice>known</Choice>
+<Val>3</Val>
+</EW>
+<Boolean>
+<Name>Crash</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Linux</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Mac</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Windows</Name>
+<Val>1</Val>
+</Boolean>
+<String>
+<Name>Comments</Name>
+<Val>	now running separately</Val>
+</String>
+<Timestamp>
+<Name>First Reported</Name>
+<Cluster>
+<Name></Name>
+<NumElts>4</NumElts>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>1808951296</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>-948443408</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+</Cluster>
+</Timestamp>
+<String>
+<Name>CAR</Name>
+<Val>N/A</Val>
+</String>
+<Boolean>
+<Name>Paused</Name>
+<Val>1</Val>
+</Boolean>
+<Array>
+<Name>failure_desc</Name>
+<Dimsize>1</Dimsize>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Load not sucessful/Path/VI mismatch/Bad Connector Pane</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+</Array>
+<I32>
+<Name>Id</Name>
+<Val>1481</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name>Failure Cluster</Name>
+<NumElts>12</NumElts>
+<Array>
+<Name>VI</Name>
+<Dimsize>3</Dimsize>
+<String>
+<Name>String</Name>
+<Val>MathScript</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>Debugging</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>MathScript_Probe_AutoTest.vi</Val>
+</String>
+</Array>
+<EW>
+<Name>Status</Name>
+<Choice></Choice>
+<Choice>new</Choice>
+<Choice>passed</Choice>
+<Choice>known</Choice>
+<Val>3</Val>
+</EW>
+<Boolean>
+<Name>Crash</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Linux</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Mac</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Windows</Name>
+<Val>1</Val>
+</Boolean>
+<String>
+<Name>Comments</Name>
+<Val>	now running separately</Val>
+</String>
+<Timestamp>
+<Name>First Reported</Name>
+<Cluster>
+<Name></Name>
+<NumElts>4</NumElts>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>1808951296</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>-948443408</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+</Cluster>
+</Timestamp>
+<String>
+<Name>CAR</Name>
+<Val>N/A</Val>
+</String>
+<Boolean>
+<Name>Paused</Name>
+<Val>1</Val>
+</Boolean>
+<Array>
+<Name>failure_desc</Name>
+<Dimsize>1</Dimsize>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Load not sucessful/Path/VI mismatch/Bad Connector Pane</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+</Array>
+<I32>
+<Name>Id</Name>
+<Val>1482</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name>Failure Cluster</Name>
+<NumElts>12</NumElts>
+<Array>
+<Name>VI</Name>
+<Dimsize>3</Dimsize>
+<String>
+<Name>String</Name>
+<Val>MathScript</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>Debugging</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>MathScript_Stepping_AutoTest.vi</Val>
+</String>
+</Array>
+<EW>
+<Name>Status</Name>
+<Choice></Choice>
+<Choice>new</Choice>
+<Choice>passed</Choice>
+<Choice>known</Choice>
+<Val>3</Val>
+</EW>
+<Boolean>
+<Name>Crash</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Linux</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Mac</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Windows</Name>
+<Val>1</Val>
+</Boolean>
+<String>
+<Name>Comments</Name>
+<Val>	now running separately</Val>
+</String>
+<Timestamp>
+<Name>First Reported</Name>
+<Cluster>
+<Name></Name>
+<NumElts>4</NumElts>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>1808951296</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>-948443408</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+</Cluster>
+</Timestamp>
+<String>
+<Name>CAR</Name>
+<Val>N/A</Val>
+</String>
+<Boolean>
+<Name>Paused</Name>
+<Val>1</Val>
+</Boolean>
+<Array>
+<Name>failure_desc</Name>
+<Dimsize>1</Dimsize>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Load not sucessful/Path/VI mismatch/Bad Connector Pane</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+</Array>
+<I32>
+<Name>Id</Name>
+<Val>1480</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name>Failure Cluster</Name>
+<NumElts>12</NumElts>
+<Array>
+<Name>VI</Name>
+<Dimsize>3</Dimsize>
+<String>
+<Name>String</Name>
+<Val>MathScript</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>MathScriptCompiler</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>MSCompiler_CheckForProhibitedVIs.vi</Val>
+</String>
+</Array>
+<EW>
+<Name>Status</Name>
+<Choice></Choice>
+<Choice>new</Choice>
+<Choice>passed</Choice>
+<Choice>known</Choice>
+<Val>3</Val>
+</EW>
+<Boolean>
+<Name>Crash</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Linux</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Mac</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Windows</Name>
+<Val>1</Val>
+</Boolean>
+<String>
+<Name>Comments</Name>
+<Val>MathScript Not installed on machine</Val>
+</String>
+<Timestamp>
+<Name>First Reported</Name>
+<Cluster>
+<Name></Name>
+<NumElts>4</NumElts>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>512602112</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>-939748971</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+</Cluster>
+</Timestamp>
+<String>
+<Name>CAR</Name>
+<Val>N/A</Val>
+</String>
+<Boolean>
+<Name>Paused</Name>
+<Val>1</Val>
+</Boolean>
+<Array>
+<Name>failure_desc</Name>
+<Dimsize>1</Dimsize>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Load not sucessful/Path/VI mismatch/Bad Connector Pane</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+</Array>
+<I32>
+<Name>Id</Name>
+<Val>3162</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name>Failure Cluster</Name>
+<NumElts>12</NumElts>
+<Array>
+<Name>VI</Name>
+<Dimsize>3</Dimsize>
+<String>
+<Name>String</Name>
+<Val>MathScript</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>MathScriptNode</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>MathScript_Auto_Test.vi</Val>
+</String>
+</Array>
+<EW>
+<Name>Status</Name>
+<Choice></Choice>
+<Choice>new</Choice>
+<Choice>passed</Choice>
+<Choice>known</Choice>
+<Val>3</Val>
+</EW>
+<Boolean>
+<Name>Crash</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Linux</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Mac</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Windows</Name>
+<Val>1</Val>
+</Boolean>
+<String>
+<Name>Comments</Name>
+<Val>Test failed differently than last time.	The test failed previously and now it crashed.	It crashed previously.	Test Crashes.	</Val>
+</String>
+<Timestamp>
+<Name>First Reported</Name>
+<Cluster>
+<Name></Name>
+<NumElts>4</NumElts>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>954861568</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>-965651364</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+</Cluster>
+</Timestamp>
+<String>
+<Name>CAR</Name>
+<Val>176298</Val>
+</String>
+<Boolean>
+<Name>Paused</Name>
+<Val>1</Val>
+</Boolean>
+<Array>
+<Name>failure_desc</Name>
+<Dimsize>1</Dimsize>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Load not sucessful/Path/VI mismatch/Bad Connector Pane</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+</Array>
+<I32>
+<Name>Id</Name>
+<Val>1082</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name>Failure Cluster</Name>
+<NumElts>12</NumElts>
+<Array>
+<Name>VI</Name>
+<Dimsize>3</Dimsize>
+<String>
+<Name>String</Name>
+<Val>MathScript</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>MathScriptNode</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>MathScript_TopLevel_DisableStruct_on_GenericVIs.vi</Val>
+</String>
+</Array>
+<EW>
+<Name>Status</Name>
+<Choice></Choice>
+<Choice>new</Choice>
+<Choice>passed</Choice>
+<Choice>known</Choice>
+<Val>3</Val>
+</EW>
+<Boolean>
+<Name>Crash</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Linux</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Mac</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Windows</Name>
+<Val>1</Val>
+</Boolean>
+<String>
+<Name>Comments</Name>
+<Val>now running separately</Val>
+</String>
+<Timestamp>
+<Name>First Reported</Name>
+<Cluster>
+<Name></Name>
+<NumElts>4</NumElts>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>1808951296</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>-948443408</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+</Cluster>
+</Timestamp>
+<String>
+<Name>CAR</Name>
+<Val>N/A</Val>
+</String>
+<Boolean>
+<Name>Paused</Name>
+<Val>1</Val>
+</Boolean>
+<Array>
+<Name>failure_desc</Name>
+<Dimsize>1</Dimsize>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Load not sucessful/Path/VI mismatch/Bad Connector Pane</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+</Array>
+<I32>
+<Name>Id</Name>
+<Val>1483</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name>Failure Cluster</Name>
+<NumElts>12</NumElts>
+<Array>
+<Name>VI</Name>
+<Dimsize>4</Dimsize>
+<String>
+<Name>String</Name>
+<Val>Project</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>group</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>individual</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>projecttest_testInstantiatingTemplatesWhileOpen.vi</Val>
+</String>
+</Array>
+<EW>
+<Name>Status</Name>
+<Choice></Choice>
+<Choice>new</Choice>
+<Choice>passed</Choice>
+<Choice>known</Choice>
+<Val>3</Val>
+</EW>
+<Boolean>
+<Name>Crash</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Linux</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Mac</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Windows</Name>
+<Val>1</Val>
+</Boolean>
+<String>
+<Name>Comments</Name>
+<Val>	persisted</Val>
+</String>
+<Timestamp>
+<Name>First Reported</Name>
+<Cluster>
+<Name></Name>
+<NumElts>4</NumElts>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>-1495635968</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>-926173214</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+</Cluster>
+</Timestamp>
+<String>
+<Name>CAR</Name>
+<Val>241893</Val>
+</String>
+<Boolean>
+<Name>Paused</Name>
+<Val>1</Val>
+</Boolean>
+<Array>
+<Name>failure_desc</Name>
+<Dimsize>1</Dimsize>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>0 (C:\builds\penguin\labview\branches\2010\dev\tests\auto\Project\group\tests\templateInLib\testInstantiatingTemplatesWhileOpen.vi) </Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+</Array>
+<I32>
+<Name>Id</Name>
+<Val>3199</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name>Failure Cluster</Name>
+<NumElts>12</NumElts>
+<Array>
+<Name>VI</Name>
+<Dimsize>3</Dimsize>
+<String>
+<Name>String</Name>
+<Val>Y2KAuto</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>Y2KTests.llb</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>DSTTest.vi</Val>
+</String>
+</Array>
+<EW>
+<Name>Status</Name>
+<Choice></Choice>
+<Choice>new</Choice>
+<Choice>passed</Choice>
+<Choice>known</Choice>
+<Val>3</Val>
+</EW>
+<Boolean>
+<Name>Crash</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Linux</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Mac</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Windows</Name>
+<Val>1</Val>
+</Boolean>
+<String>
+<Name>Comments</Name>
+<Val>	</Val>
+</String>
+<Timestamp>
+<Name>First Reported</Name>
+<Cluster>
+<Name></Name>
+<NumElts>4</NumElts>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>-1701308416</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>-1008183838</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+</Cluster>
+</Timestamp>
+<String>
+<Name>CAR</Name>
+<Val>167278 </Val>
+</String>
+<Boolean>
+<Name>Paused</Name>
+<Val>0</Val>
+</Boolean>
+<Array>
+<Name>failure_desc</Name>
+<Dimsize>16</Dimsize>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Bad Time in Primitive(1)</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Bad Time in Time Stamp(1)</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Bad DST in Primitive(1)</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Bad DST in Time Stamp(1)</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Bad Time in Primitive(2)</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Bad Time in Time Stamp(2)</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Bad DST in Primitive(2)</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Bad DST in Time Stamp(2)</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Bad Time in Primitive(3)</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Bad Time in Time Stamp(3)</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Bad DST in Primitive(3)</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Bad DST in Time Stamp(3)</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Bad Time in Primitive(4)</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Bad Time in Time Stamp(4)</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Bad DST in Primitive(4)</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Bad DST in Time Stamp(4)</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+</Array>
+<I32>
+<Name>Id</Name>
+<Val>4</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name>Failure Cluster</Name>
+<NumElts>12</NumElts>
+<Array>
+<Name>VI</Name>
+<Dimsize>3</Dimsize>
+<String>
+<Name>String</Name>
+<Val>Y2KAuto</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>Y2KTests.llb</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>NewTestDateRecPrims.vi</Val>
+</String>
+</Array>
+<EW>
+<Name>Status</Name>
+<Choice></Choice>
+<Choice>new</Choice>
+<Choice>passed</Choice>
+<Choice>known</Choice>
+<Val>3</Val>
+</EW>
+<Boolean>
+<Name>Crash</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Linux</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Mac</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Windows</Name>
+<Val>1</Val>
+</Boolean>
+<String>
+<Name>Comments</Name>
+<Val>Test failed differently than last time.			requires OS specific repair</Val>
+</String>
+<Timestamp>
+<Name>First Reported</Name>
+<Cluster>
+<Name></Name>
+<NumElts>4</NumElts>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>-1701308416</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>-1008183838</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+</Cluster>
+</Timestamp>
+<String>
+<Name>CAR</Name>
+<Val>167278</Val>
+</String>
+<Boolean>
+<Name>Paused</Name>
+<Val>0</Val>
+</Boolean>
+<Array>
+<Name>failure_desc</Name>
+<Dimsize>15</Dimsize>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>RecToDate 0, 0</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>RecToDate 0, 2</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>3</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>RecToDate 0, 3</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>3</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>DateToRec 0</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>RecToDate 1, 0</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>RecToDate 1, 2</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>3</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>RecToDate 1, 3</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>3</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>DateToRec 1</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>RecToDate 2, 1</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>3</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>RecToDate 2, 3</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>3</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>RecToDate 5, 2</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>3</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>RecToDate 6, 2</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>3</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>RecToDate 7, 0</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>RecToDate 7, 2</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>3</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>DateToRec 7</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+</Array>
+<I32>
+<Name>Id</Name>
+<Val>5</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name>Failure Cluster</Name>
+<NumElts>12</NumElts>
+<Array>
+<Name>VI</Name>
+<Dimsize>3</Dimsize>
+<String>
+<Name>String</Name>
+<Val>Y2KAuto</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>Y2KTests.llb</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>Seconds to DateTime to Seconds.vi</Val>
+</String>
+</Array>
+<EW>
+<Name>Status</Name>
+<Choice></Choice>
+<Choice>new</Choice>
+<Choice>passed</Choice>
+<Choice>known</Choice>
+<Val>3</Val>
+</EW>
+<Boolean>
+<Name>Crash</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Linux</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Mac</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Windows</Name>
+<Val>1</Val>
+</Boolean>
+<String>
+<Name>Comments</Name>
+<Val>	</Val>
+</String>
+<Timestamp>
+<Name>First Reported</Name>
+<Cluster>
+<Name></Name>
+<NumElts>4</NumElts>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>-1701308416</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>-1008183838</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+</Cluster>
+</Timestamp>
+<String>
+<Name>CAR</Name>
+<Val>167278</Val>
+</String>
+<Boolean>
+<Name>Paused</Name>
+<Val>0</Val>
+</Boolean>
+<Array>
+<Name>failure_desc</Name>
+<Dimsize>3</Dimsize>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Test (12) failed</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Test (13) failed</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>daylight savings time conversion failed</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>3</Val>
+</EL>
+</Cluster>
+</Array>
+<I32>
+<Name>Id</Name>
+<Val>3</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name>Failure Cluster</Name>
+<NumElts>12</NumElts>
+<Array>
+<Name>VI</Name>
+<Dimsize>3</Dimsize>
+<String>
+<Name>String</Name>
+<Val>errorcodes</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>VerifyExist.llb</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>Verify ECDB Test.vi</Val>
+</String>
+</Array>
+<EW>
+<Name>Status</Name>
+<Choice></Choice>
+<Choice>new</Choice>
+<Choice>passed</Choice>
+<Choice>known</Choice>
+<Val>3</Val>
+</EW>
+<Boolean>
+<Name>Crash</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Linux</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>Mac</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>Windows</Name>
+<Val>1</Val>
+</Boolean>
+<String>
+<Name>Comments</Name>
+<Val>now an acceptance test</Val>
+</String>
+<Timestamp>
+<Name>First Reported</Name>
+<Cluster>
+<Name></Name>
+<NumElts>4</NumElts>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>-1532235776</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>-990969940</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+</Cluster>
+</Timestamp>
+<String>
+<Name>CAR</Name>
+<Val>122999</Val>
+</String>
+<Boolean>
+<Name>Paused</Name>
+<Val>1</Val>
+</Boolean>
+<Array>
+<Name>failure_desc</Name>
+<Dimsize>0</Dimsize>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val></Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val></Val>
+</EL>
+</Cluster>
+</Array>
+<I32>
+<Name>Id</Name>
+<Val>390</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name>Failure Cluster</Name>
+<NumElts>12</NumElts>
+<Array>
+<Name>VI</Name>
+<Dimsize>2</Dimsize>
+<String>
+<Name>String</Name>
+<Val>scripting</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>Drop All Controls.vi</Val>
+</String>
+</Array>
+<EW>
+<Name>Status</Name>
+<Choice></Choice>
+<Choice>new</Choice>
+<Choice>passed</Choice>
+<Choice>known</Choice>
+<Val>3</Val>
+</EW>
+<Boolean>
+<Name>Crash</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Linux</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Mac</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Windows</Name>
+<Val>0</Val>
+</Boolean>
+<String>
+<Name>Comments</Name>
+<Val>run moved to MathScript build machine (DWarns)</Val>
+</String>
+<Timestamp>
+<Name>First Reported</Name>
+<Cluster>
+<Name></Name>
+<NumElts>4</NumElts>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>449394688</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>-945091192</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+</Cluster>
+</Timestamp>
+<String>
+<Name>CAR</Name>
+<Val>N/A</Val>
+</String>
+<Boolean>
+<Name>Paused</Name>
+<Val>1</Val>
+</Boolean>
+<Array>
+<Name>failure_desc</Name>
+<Dimsize>0</Dimsize>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val></Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val></Val>
+</EL>
+</Cluster>
+</Array>
+<I32>
+<Name>Id</Name>
+<Val>2323</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name>Failure Cluster</Name>
+<NumElts>12</NumElts>
+<Array>
+<Name>VI</Name>
+<Dimsize>3</Dimsize>
+<String>
+<Name>String</Name>
+<Val>scripting</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>Replace Object</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>Scripting Tests-Replace Object.vi</Val>
+</String>
+</Array>
+<EW>
+<Name>Status</Name>
+<Choice></Choice>
+<Choice>new</Choice>
+<Choice>passed</Choice>
+<Choice>known</Choice>
+<Val>3</Val>
+</EW>
+<Boolean>
+<Name>Crash</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Linux</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Mac</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Windows</Name>
+<Val>0</Val>
+</Boolean>
+<String>
+<Name>Comments</Name>
+<Val>Moved to MathScript Tests as it tries to drop MS nodes</Val>
+</String>
+<Timestamp>
+<Name>First Reported</Name>
+<Cluster>
+<Name></Name>
+<NumElts>4</NumElts>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>910020608</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>-939649223</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+</Cluster>
+</Timestamp>
+<String>
+<Name>CAR</Name>
+<Val>N/A</Val>
+</String>
+<Boolean>
+<Name>Paused</Name>
+<Val>1</Val>
+</Boolean>
+<Array>
+<Name>failure_desc</Name>
+<Dimsize>0</Dimsize>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val></Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val></Val>
+</EL>
+</Cluster>
+</Array>
+<I32>
+<Name>Id</Name>
+<Val>3163</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name>Failure Cluster</Name>
+<NumElts>12</NumElts>
+<Array>
+<Name>VI</Name>
+<Dimsize>2</Dimsize>
+<String>
+<Name>String</Name>
+<Val>string</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>strftime.vi</Val>
+</String>
+</Array>
+<EW>
+<Name>Status</Name>
+<Choice></Choice>
+<Choice>new</Choice>
+<Choice>passed</Choice>
+<Choice>known</Choice>
+<Val>3</Val>
+</EW>
+<Boolean>
+<Name>Crash</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Linux</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Mac</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Windows</Name>
+<Val>1</Val>
+</Boolean>
+<String>
+<Name>Comments</Name>
+<Val>Test failed differently than last time.		</Val>
+</String>
+<Timestamp>
+<Name>First Reported</Name>
+<Cluster>
+<Name></Name>
+<NumElts>4</NumElts>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>-1701308416</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>-1008183838</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+</Cluster>
+</Timestamp>
+<String>
+<Name>CAR</Name>
+<Val>167278 </Val>
+</String>
+<Boolean>
+<Name>Paused</Name>
+<Val>0</Val>
+</Boolean>
+<Array>
+<Name>failure_desc</Name>
+<Dimsize>13</Dimsize>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Format Time String (4, 3)  failed</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Format Time String (6, 3)  failed</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Format Time String (7, 3)  failed</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Format Time String (23, 3)  failed</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Format Time String (25, 3)  failed</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Format Time String (26, 3)  failed</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Format Time String (38, 3)  failed</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Format Time String (40, 3)  failed</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Format Time String (41, 3)  failed</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Format Time String (42, 3)  failed</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Format Time String (44, 3)  failed</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Format Time String (45, 3)  failed</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Format Date/Time String (daylight savings conversion) failed</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>3</Val>
+</EL>
+</Cluster>
+</Array>
+<I32>
+<Name>Id</Name>
+<Val>2</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name>Failure Cluster</Name>
+<NumElts>12</NumElts>
+<Array>
+<Name>VI</Name>
+<Dimsize>2</Dimsize>
+<String>
+<Name>String</Name>
+<Val>tdms</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>CAR_188964.vi</Val>
+</String>
+</Array>
+<EW>
+<Name>Status</Name>
+<Choice></Choice>
+<Choice>new</Choice>
+<Choice>passed</Choice>
+<Choice>known</Choice>
+<Val>2</Val>
+</EW>
+<Boolean>
+<Name>Crash</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>Linux</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Mac</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Windows</Name>
+<Val>1</Val>
+</Boolean>
+<String>
+<Name>Comments</Name>
+<Val>	</Val>
+</String>
+<Timestamp>
+<Name>First Reported</Name>
+<Cluster>
+<Name></Name>
+<NumElts>4</NumElts>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>-1729406976</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>-919871218</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+</Cluster>
+</Timestamp>
+<String>
+<Name>CAR</Name>
+<Val></Val>
+</String>
+<Boolean>
+<Name>Paused</Name>
+<Val>0</Val>
+</Boolean>
+<Array>
+<Name>failure_desc</Name>
+<Dimsize>1</Dimsize>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>crash</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+</Array>
+<I32>
+<Name>Id</Name>
+<Val>3207</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name>Failure Cluster</Name>
+<NumElts>12</NumElts>
+<Array>
+<Name>VI</Name>
+<Dimsize>2</Dimsize>
+<String>
+<Name>String</Name>
+<Val>callByRef</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>testCallByRef_badConnectorPaneReleasesVI_outer.vi</Val>
+</String>
+</Array>
+<EW>
+<Name>Status</Name>
+<Choice></Choice>
+<Choice>new</Choice>
+<Choice>passed</Choice>
+<Choice>known</Choice>
+<Val>2</Val>
+</EW>
+<Boolean>
+<Name>Crash</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Linux</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Mac</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Windows</Name>
+<Val>1</Val>
+</Boolean>
+<String>
+<Name>Comments</Name>
+<Val>	</Val>
+</String>
+<Timestamp>
+<Name>First Reported</Name>
+<Cluster>
+<Name></Name>
+<NumElts>4</NumElts>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>-227131392</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>-919108246</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+</Cluster>
+</Timestamp>
+<String>
+<Name>CAR</Name>
+<Val></Val>
+</String>
+<Boolean>
+<Name>Paused</Name>
+<Val>0</Val>
+</Boolean>
+<Array>
+<Name>failure_desc</Name>
+<Dimsize>7</Dimsize>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>vi 'testCallByRef_normalCallReleasesVI.vi' is not mass compiled</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>vi 'testCallByRef_brokenCallReleasesVI.vi' is not mass compiled</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>vi 'Add test to error descriptions.vi' is not mass compiled</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>vi 'testCallByRef_badConnectorPaneReleasesVI.vi' is not mass compiled</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>0</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>1</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>2</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+</Array>
+<I32>
+<Name>Id</Name>
+<Val>3208</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name>Failure Cluster</Name>
+<NumElts>12</NumElts>
+<Array>
+<Name>VI</Name>
+<Dimsize>3</Dimsize>
+<String>
+<Name>String</Name>
+<Val>PolyVIs</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>PolyVIsLite</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>PolyVIsLite_TestSuite.vi</Val>
+</String>
+</Array>
+<EW>
+<Name>Status</Name>
+<Choice></Choice>
+<Choice>new</Choice>
+<Choice>passed</Choice>
+<Choice>known</Choice>
+<Val>2</Val>
+</EW>
+<Boolean>
+<Name>Crash</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Linux</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Mac</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Windows</Name>
+<Val>1</Val>
+</Boolean>
+<String>
+<Name>Comments</Name>
+<Val>	</Val>
+</String>
+<Timestamp>
+<Name>First Reported</Name>
+<Cluster>
+<Name></Name>
+<NumElts>4</NumElts>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>-227131392</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>-919108246</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+</Cluster>
+</Timestamp>
+<String>
+<Name>CAR</Name>
+<Val></Val>
+</String>
+<Boolean>
+<Name>Paused</Name>
+<Val>0</Val>
+</Boolean>
+<Array>
+<Name>failure_desc</Name>
+<Dimsize>16</Dimsize>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Failure in: Sub VI of a generic with test case VIsForNonBrokenVITests\PolyVIOrderABC\VIsForNonBrokenVITests_ABC_GSelected.vi</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Failure in: Sub VI of a generic with test case VIsForNonBrokenVITests\PolyVIOrderABC\VIsForNonBrokenVITests_ABC_GWired.vi</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Failure in: Sub VI of a generic with test case VIsForNonBrokenVITests\PolyVIOrderABC\VIsForNonBrokenVITests_ABC_GUnwired.vi</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Failure in: Sub VI of a generic with test case VIsForNonBrokenVITests\PolyVIOrderBAC\VIsForNonBrokenVITests_BAC_GSelected.vi</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Failure in: Sub VI of a generic with test case VIsForNonBrokenVITests\PolyVIOrderBAC\VIsForNonBrokenVITests_BAC_GWired.vi</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Failure in: Instance connector pane changed with test case VIsForNonBrokenVITests\PolyVIOrderABC\VIsForNonBrokenVITests_ABC_GSelected.vi</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Failure in: Instance connector pane changed with test case VIsForNonBrokenVITests\PolyVIOrderABC\VIsForNonBrokenVITests_ABC_GWired.vi</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Failure in: Instance connector pane changed with test case VIsForNonBrokenVITests\PolyVIOrderABC\VIsForNonBrokenVITests_ABC_GUnwired.vi</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Failure in: Instance connector pane changed with test case VIsForNonBrokenVITests\PolyVIOrderBAC\VIsForNonBrokenVITests_BAC_GSelected.vi</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Failure in: Instance connector pane changed with test case VIsForNonBrokenVITests\PolyVIOrderBAC\VIsForNonBrokenVITests_BAC_GWired.vi</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Failure in: Poly VI as Sub VI of Running Generic with test case VIsForNonBrokenVITests\TestRunningGeneric\PolyVIOrderABC\TestRunningGeneric_ABC_GSelected.vi</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Failure in: Poly VI as Sub VI of Running Generic with test case VIsForNonBrokenVITests\TestRunningGeneric\PolyVIOrderABC\TestRunningGeneric_ABC_GWired.vi</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Failure in: Poly VI as Sub VI of Running Generic with test case VIsForNonBrokenVITests\TestRunningGeneric\PolyVIOrderABC\TestRunningGeneric_ABC_GUnwired.vi</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Failure in: Poly VI as Sub VI of Running Generic with test case VIsForNonBrokenVITests\TestRunningGeneric\PolyVIOrderBAC\TestRunningGeneric_BAC_GSelected.vi</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Failure in: Poly VI as Sub VI of Running Generic with test case VIsForNonBrokenVITests\TestRunningGeneric\PolyVIOrderBAC\TestRunningGeneric_BAC_GWired.vi</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Failure in: Nested PolyVI</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+</Array>
+<I32>
+<Name>Id</Name>
+<Val>3209</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name>Failure Cluster</Name>
+<NumElts>12</NumElts>
+<Array>
+<Name>VI</Name>
+<Dimsize>3</Dimsize>
+<String>
+<Name>String</Name>
+<Val>express</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>conditionalDisable</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>testExpressConditionalDisable.vi</Val>
+</String>
+</Array>
+<EW>
+<Name>Status</Name>
+<Choice></Choice>
+<Choice>new</Choice>
+<Choice>passed</Choice>
+<Choice>known</Choice>
+<Val>2</Val>
+</EW>
+<Boolean>
+<Name>Crash</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Linux</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Mac</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Windows</Name>
+<Val>1</Val>
+</Boolean>
+<String>
+<Name>Comments</Name>
+<Val>	</Val>
+</String>
+<Timestamp>
+<Name>First Reported</Name>
+<Cluster>
+<Name></Name>
+<NumElts>4</NumElts>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>-227131392</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>-919108246</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+</Cluster>
+</Timestamp>
+<String>
+<Name>CAR</Name>
+<Val></Val>
+</String>
+<Boolean>
+<Name>Paused</Name>
+<Val>0</Val>
+</Boolean>
+<Array>
+<Name>failure_desc</Name>
+<Dimsize>8</Dimsize>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>SOME TEST VIS AREN'T MASS COMPILED -THIS CAN CAUSE THIS TEST TO FAIL!</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>0,1</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>1,1</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>2,1</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>3,1</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>4,1</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>5,1</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>6,1</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+</Array>
+<I32>
+<Name>Id</Name>
+<Val>3210</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name>Failure Cluster</Name>
+<NumElts>12</NumElts>
+<Array>
+<Name>VI</Name>
+<Dimsize>4</Dimsize>
+<String>
+<Name>String</Name>
+<Val>express</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>refactor</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>renameOnDisk</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>testOnDiskRename.vi</Val>
+</String>
+</Array>
+<EW>
+<Name>Status</Name>
+<Choice></Choice>
+<Choice>new</Choice>
+<Choice>passed</Choice>
+<Choice>known</Choice>
+<Val>2</Val>
+</EW>
+<Boolean>
+<Name>Crash</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Linux</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Mac</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Windows</Name>
+<Val>1</Val>
+</Boolean>
+<String>
+<Name>Comments</Name>
+<Val>	</Val>
+</String>
+<Timestamp>
+<Name>First Reported</Name>
+<Cluster>
+<Name></Name>
+<NumElts>4</NumElts>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>-227131392</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>-919108246</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+</Cluster>
+</Timestamp>
+<String>
+<Name>CAR</Name>
+<Val></Val>
+</String>
+<Boolean>
+<Name>Paused</Name>
+<Val>0</Val>
+</Boolean>
+<Array>
+<Name>failure_desc</Name>
+<Dimsize>3</Dimsize>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>SOME TEST VIS AREN'T MASS COMPILED -THIS CAN CAUSE THIS TEST TO FAIL!</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>0,1</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>1,1</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+</Array>
+<I32>
+<Name>Id</Name>
+<Val>3211</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name>Failure Cluster</Name>
+<NumElts>12</NumElts>
+<Array>
+<Name>VI</Name>
+<Dimsize>3</Dimsize>
+<String>
+<Name>String</Name>
+<Val>express</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>writelinkerinfo</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>testWriteLinkerInfoInstances.vi</Val>
+</String>
+</Array>
+<EW>
+<Name>Status</Name>
+<Choice></Choice>
+<Choice>new</Choice>
+<Choice>passed</Choice>
+<Choice>known</Choice>
+<Val>2</Val>
+</EW>
+<Boolean>
+<Name>Crash</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Linux</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Mac</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Windows</Name>
+<Val>1</Val>
+</Boolean>
+<String>
+<Name>Comments</Name>
+<Val>	</Val>
+</String>
+<Timestamp>
+<Name>First Reported</Name>
+<Cluster>
+<Name></Name>
+<NumElts>4</NumElts>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>-227131392</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>-919108246</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+</Cluster>
+</Timestamp>
+<String>
+<Name>CAR</Name>
+<Val></Val>
+</String>
+<Boolean>
+<Name>Paused</Name>
+<Val>0</Val>
+</Boolean>
+<Array>
+<Name>failure_desc</Name>
+<Dimsize>2</Dimsize>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>VI not mass compiled; this will cause test to fail!!!!!!</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>WriteLinkerInfo to instance VIs failed!</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+</Array>
+<I32>
+<Name>Id</Name>
+<Val>3212</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name>Failure Cluster</Name>
+<NumElts>12</NumElts>
+<Array>
+<Name>VI</Name>
+<Dimsize>3</Dimsize>
+<String>
+<Name>String</Name>
+<Val>Math Plots</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>Property Node Test</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>Bar Property Test.vi</Val>
+</String>
+</Array>
+<EW>
+<Name>Status</Name>
+<Choice></Choice>
+<Choice>new</Choice>
+<Choice>passed</Choice>
+<Choice>known</Choice>
+<Val>2</Val>
+</EW>
+<Boolean>
+<Name>Crash</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>Linux</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Mac</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Windows</Name>
+<Val>1</Val>
+</Boolean>
+<String>
+<Name>Comments</Name>
+<Val>	</Val>
+</String>
+<Timestamp>
+<Name>First Reported</Name>
+<Cluster>
+<Name></Name>
+<NumElts>4</NumElts>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>-227131392</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>-919108246</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+</Cluster>
+</Timestamp>
+<String>
+<Name>CAR</Name>
+<Val></Val>
+</String>
+<Boolean>
+<Name>Paused</Name>
+<Val>0</Val>
+</Boolean>
+<Array>
+<Name>failure_desc</Name>
+<Dimsize>1</Dimsize>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>crash</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+</Array>
+<I32>
+<Name>Id</Name>
+<Val>3213</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name>Failure Cluster</Name>
+<NumElts>12</NumElts>
+<Array>
+<Name>VI</Name>
+<Dimsize>3</Dimsize>
+<String>
+<Name>String</Name>
+<Val>bigtest_stub</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>TestEnvVariables</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>bigtest_Tst AAL_Env_Vars.vi</Val>
+</String>
+</Array>
+<EW>
+<Name>Status</Name>
+<Choice></Choice>
+<Choice>new</Choice>
+<Choice>passed</Choice>
+<Choice>known</Choice>
+<Val>2</Val>
+</EW>
+<Boolean>
+<Name>Crash</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Linux</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Mac</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Windows</Name>
+<Val>1</Val>
+</Boolean>
+<String>
+<Name>Comments</Name>
+<Val>	</Val>
+</String>
+<Timestamp>
+<Name>First Reported</Name>
+<Cluster>
+<Name></Name>
+<NumElts>4</NumElts>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>-227131392</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>-919108246</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+</Cluster>
+</Timestamp>
+<String>
+<Name>CAR</Name>
+<Val></Val>
+</String>
+<Boolean>
+<Name>Paused</Name>
+<Val>0</Val>
+</Boolean>
+<Array>
+<Name>failure_desc</Name>
+<Dimsize>1</Dimsize>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Open VI Reference in bigtest_Tst AAL_Env_Vars.vi-&gt;run new.vi-&gt;run test new.vi-&gt;Execute Line &amp; Log Results New.vi-&gt;Core Driver.vi-&gt;InternalDriver.vi-&gt;driver.vi-&gt;AutotestDriverWrapper.vi&lt;APPEND&gt;
+VI Path: &lt;b&gt;C:\builds\penguin\labview\branches\2010\dev\tests\auto\analysis\TestEnvVariables\Tst AAL_Env_Vars.vi&lt;/b&gt;</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+</Array>
+<I32>
+<Name>Id</Name>
+<Val>3214</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name>Failure Cluster</Name>
+<NumElts>12</NumElts>
+<Array>
+<Name>VI</Name>
+<Dimsize>4</Dimsize>
+<String>
+<Name>String</Name>
+<Val>scripting</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>Open VI Object Reference</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>Open Nested VI Object Reference</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>Open Nested VI Object Reference.vi</Val>
+</String>
+</Array>
+<EW>
+<Name>Status</Name>
+<Choice></Choice>
+<Choice>new</Choice>
+<Choice>passed</Choice>
+<Choice>known</Choice>
+<Val>2</Val>
+</EW>
+<Boolean>
+<Name>Crash</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Linux</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Mac</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Windows</Name>
+<Val>1</Val>
+</Boolean>
+<String>
+<Name>Comments</Name>
+<Val>	</Val>
+</String>
+<Timestamp>
+<Name>First Reported</Name>
+<Cluster>
+<Name></Name>
+<NumElts>4</NumElts>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>-1179883520</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>-919062765</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+</Cluster>
+</Timestamp>
+<String>
+<Name>CAR</Name>
+<Val></Val>
+</String>
+<Boolean>
+<Name>Paused</Name>
+<Val>0</Val>
+</Boolean>
+<Array>
+<Name>failure_desc</Name>
+<Dimsize>1</Dimsize>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Failure in: First Test</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+</Array>
+<I32>
+<Name>Id</Name>
+<Val>3215</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name>Failure Cluster</Name>
+<NumElts>12</NumElts>
+<Array>
+<Name>VI</Name>
+<Dimsize>3</Dimsize>
+<String>
+<Name>String</Name>
+<Val>scripting</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>UndoRedo</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>Scripting Tests - UndoRedo.vi</Val>
+</String>
+</Array>
+<EW>
+<Name>Status</Name>
+<Choice></Choice>
+<Choice>new</Choice>
+<Choice>passed</Choice>
+<Choice>known</Choice>
+<Val>2</Val>
+</EW>
+<Boolean>
+<Name>Crash</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Linux</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Mac</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Windows</Name>
+<Val>1</Val>
+</Boolean>
+<String>
+<Name>Comments</Name>
+<Val>	</Val>
+</String>
+<Timestamp>
+<Name>First Reported</Name>
+<Cluster>
+<Name></Name>
+<NumElts>4</NumElts>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>-1179883520</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>-919062765</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+</Cluster>
+</Timestamp>
+<String>
+<Name>CAR</Name>
+<Val></Val>
+</String>
+<Boolean>
+<Name>Paused</Name>
+<Val>0</Val>
+</Boolean>
+<Array>
+<Name>failure_desc</Name>
+<Dimsize>1</Dimsize>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Failure in: First Test</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+</Array>
+<I32>
+<Name>Id</Name>
+<Val>3216</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name>Failure Cluster</Name>
+<NumElts>12</NumElts>
+<Array>
+<Name>VI</Name>
+<Dimsize>3</Dimsize>
+<String>
+<Name>String</Name>
+<Val>constants</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>const_folding.llb</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>constant_folding.vi</Val>
+</String>
+</Array>
+<EW>
+<Name>Status</Name>
+<Choice></Choice>
+<Choice>new</Choice>
+<Choice>passed</Choice>
+<Choice>known</Choice>
+<Val>3</Val>
+</EW>
+<Boolean>
+<Name>Crash</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Linux</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Mac</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Windows</Name>
+<Val>1</Val>
+</Boolean>
+<String>
+<Name>Comments</Name>
+<Val>	</Val>
+</String>
+<Timestamp>
+<Name>First Reported</Name>
+<Cluster>
+<Name></Name>
+<NumElts>4</NumElts>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>1791565824</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>-906427330</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+</Cluster>
+</Timestamp>
+<String>
+<Name>CAR</Name>
+<Val></Val>
+</String>
+<Boolean>
+<Name>Paused</Name>
+<Val>0</Val>
+</Boolean>
+<Array>
+<Name>failure_desc</Name>
+<Dimsize>1</Dimsize>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Failure in: RandomConstants.vi</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+</Array>
+<I32>
+<Name>Id</Name>
+<Val>3217</Val>
+</I32>
+</Cluster>
+</Array>

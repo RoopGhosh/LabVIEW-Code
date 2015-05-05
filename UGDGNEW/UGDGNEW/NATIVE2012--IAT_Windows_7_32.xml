@@ -1,0 +1,1877 @@
+<Array>
+<Name> Failure Array</Name>
+<Dimsize>11</Dimsize>
+<Cluster>
+<Name>Failure Cluster</Name>
+<NumElts>12</NumElts>
+<Array>
+<Name>VI</Name>
+<Dimsize>2</Dimsize>
+<String>
+<Name>String</Name>
+<Val>semaphorerendezvous</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>acquire_semaphore.vi</Val>
+</String>
+</Array>
+<EW>
+<Name>Status</Name>
+<Choice></Choice>
+<Choice>new</Choice>
+<Choice>passed</Choice>
+<Choice>known</Choice>
+<Val>3</Val>
+</EW>
+<Boolean>
+<Name>Crash</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Linux</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Mac</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Windows</Name>
+<Val>1</Val>
+</Boolean>
+<String>
+<Name>Comments</Name>
+<Val>	erratic</Val>
+</String>
+<Timestamp>
+<Name>First Reported</Name>
+<Cluster>
+<Name></Name>
+<NumElts>4</NumElts>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>-1769996288</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>-860325579</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+</Cluster>
+</Timestamp>
+<String>
+<Name>CAR</Name>
+<Val>358483</Val>
+</String>
+<Boolean>
+<Name>Paused</Name>
+<Val>0</Val>
+</Boolean>
+<Array>
+<Name>failure_desc</Name>
+<Dimsize>1</Dimsize>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Failure in: Does block if no locks available</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+</Array>
+<I32>
+<Name>Id</Name>
+<Val>531</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name>Failure Cluster</Name>
+<NumElts>12</NumElts>
+<Array>
+<Name>VI</Name>
+<Dimsize>4</Dimsize>
+<String>
+<Name>String</Name>
+<Val>misc</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>DisableDebugging</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>ATML20</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>ReadDataAutoTest.vi</Val>
+</String>
+</Array>
+<EW>
+<Name>Status</Name>
+<Choice></Choice>
+<Choice>new</Choice>
+<Choice>passed</Choice>
+<Choice>known</Choice>
+<Val>3</Val>
+</EW>
+<Boolean>
+<Name>Crash</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Linux</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Mac</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Windows</Name>
+<Val>1</Val>
+</Boolean>
+<String>
+<Name>Comments</Name>
+<Val>	</Val>
+</String>
+<Timestamp>
+<Name>First Reported</Name>
+<Cluster>
+<Name></Name>
+<NumElts>4</NumElts>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>-633339904</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>-860916564</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+</Cluster>
+</Timestamp>
+<String>
+<Name>CAR</Name>
+<Val>377207</Val>
+</String>
+<Boolean>
+<Name>Paused</Name>
+<Val>0</Val>
+</Boolean>
+<Array>
+<Name>failure_desc</Name>
+<Dimsize>1</Dimsize>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Failed</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+</Array>
+<I32>
+<Name>Id</Name>
+<Val>529</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name>Failure Cluster</Name>
+<NumElts>12</NumElts>
+<Array>
+<Name>VI</Name>
+<Dimsize>3</Dimsize>
+<String>
+<Name>String</Name>
+<Val>SDK</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>LvVariant_to_DSCFlex_Conversions</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>LvVariant_to_DSCFlex_Conversions.vi</Val>
+</String>
+</Array>
+<EW>
+<Name>Status</Name>
+<Choice></Choice>
+<Choice>new</Choice>
+<Choice>passed</Choice>
+<Choice>known</Choice>
+<Val>3</Val>
+</EW>
+<Boolean>
+<Name>Crash</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>Linux</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Mac</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Windows</Name>
+<Val>1</Val>
+</Boolean>
+<String>
+<Name>Comments</Name>
+<Val>Test Crashes.	erratic</Val>
+</String>
+<Timestamp>
+<Name>First Reported</Name>
+<Cluster>
+<Name></Name>
+<NumElts>4</NumElts>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>1061158912</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>-877331001</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+</Cluster>
+</Timestamp>
+<String>
+<Name>CAR</Name>
+<Val>352451</Val>
+</String>
+<Boolean>
+<Name>Paused</Name>
+<Val>0</Val>
+</Boolean>
+<Array>
+<Name>failure_desc</Name>
+<Dimsize>1</Dimsize>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>crash</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+</Array>
+<I32>
+<Name>Id</Name>
+<Val>444</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name>Failure Cluster</Name>
+<NumElts>12</NumElts>
+<Array>
+<Name>VI</Name>
+<Dimsize>2</Dimsize>
+<String>
+<Name>String</Name>
+<Val>Runtime Engine</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>VerifyRuntimeEngineResources.vi</Val>
+</String>
+</Array>
+<EW>
+<Name>Status</Name>
+<Choice></Choice>
+<Choice>new</Choice>
+<Choice>passed</Choice>
+<Choice>known</Choice>
+<Val>3</Val>
+</EW>
+<Boolean>
+<Name>Crash</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>Linux</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Mac</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Windows</Name>
+<Val>1</Val>
+</Boolean>
+<String>
+<Name>Comments</Name>
+<Val>It crashed previously.	Test Crashes.	The test failed previously and now it crashed.	Test failed differently than last time.		</Val>
+</String>
+<Timestamp>
+<Name>First Reported</Name>
+<Cluster>
+<Name></Name>
+<NumElts>4</NumElts>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>1560281088</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>-900889798</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+</Cluster>
+</Timestamp>
+<String>
+<Name>CAR</Name>
+<Val>No CAR Expected yet</Val>
+</String>
+<Boolean>
+<Name>Paused</Name>
+<Val>0</Val>
+</Boolean>
+<Array>
+<Name>failure_desc</Name>
+<Dimsize>1</Dimsize>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>crash</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+</Array>
+<I32>
+<Name>Id</Name>
+<Val>144</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name>Failure Cluster</Name>
+<NumElts>12</NumElts>
+<Array>
+<Name>VI</Name>
+<Dimsize>3</Dimsize>
+<String>
+<Name>String</Name>
+<Val>Y2KAuto</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>Y2KTests.llb</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>DSTTest.vi</Val>
+</String>
+</Array>
+<EW>
+<Name>Status</Name>
+<Choice></Choice>
+<Choice>new</Choice>
+<Choice>passed</Choice>
+<Choice>known</Choice>
+<Val>3</Val>
+</EW>
+<Boolean>
+<Name>Crash</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Linux</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Mac</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Windows</Name>
+<Val>1</Val>
+</Boolean>
+<String>
+<Name>Comments</Name>
+<Val>	</Val>
+</String>
+<Timestamp>
+<Name>First Reported</Name>
+<Cluster>
+<Name></Name>
+<NumElts>4</NumElts>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>2071986176</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>-911713816</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+</Cluster>
+</Timestamp>
+<String>
+<Name>CAR</Name>
+<Val>156668</Val>
+</String>
+<Boolean>
+<Name>Paused</Name>
+<Val>0</Val>
+</Boolean>
+<Array>
+<Name>failure_desc</Name>
+<Dimsize>16</Dimsize>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Bad Time in Primitive(1)</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Bad Time in Time Stamp(1)</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Bad DST in Primitive(1)</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Bad DST in Time Stamp(1)</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Bad Time in Primitive(2)</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Bad Time in Time Stamp(2)</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Bad DST in Primitive(2)</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Bad DST in Time Stamp(2)</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Bad Time in Primitive(3)</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Bad Time in Time Stamp(3)</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Bad DST in Primitive(3)</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Bad DST in Time Stamp(3)</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Bad Time in Primitive(4)</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Bad Time in Time Stamp(4)</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Bad DST in Primitive(4)</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Bad DST in Time Stamp(4)</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+</Array>
+<I32>
+<Name>Id</Name>
+<Val>10</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name>Failure Cluster</Name>
+<NumElts>12</NumElts>
+<Array>
+<Name>VI</Name>
+<Dimsize>2</Dimsize>
+<String>
+<Name>String</Name>
+<Val>string</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>strftime.vi</Val>
+</String>
+</Array>
+<EW>
+<Name>Status</Name>
+<Choice></Choice>
+<Choice>new</Choice>
+<Choice>passed</Choice>
+<Choice>known</Choice>
+<Val>3</Val>
+</EW>
+<Boolean>
+<Name>Crash</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Linux</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Mac</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Windows</Name>
+<Val>1</Val>
+</Boolean>
+<String>
+<Name>Comments</Name>
+<Val>	</Val>
+</String>
+<Timestamp>
+<Name>First Reported</Name>
+<Cluster>
+<Name></Name>
+<NumElts>4</NumElts>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>2071986176</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>-911713816</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+</Cluster>
+</Timestamp>
+<String>
+<Name>CAR</Name>
+<Val>156668</Val>
+</String>
+<Boolean>
+<Name>Paused</Name>
+<Val>0</Val>
+</Boolean>
+<Array>
+<Name>failure_desc</Name>
+<Dimsize>13</Dimsize>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Format Time String (4, 3)  failed</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Format Time String (6, 3)  failed</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Format Time String (7, 3)  failed</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Format Time String (23, 3)  failed</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Format Time String (25, 3)  failed</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Format Time String (26, 3)  failed</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Format Time String (38, 3)  failed</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Format Time String (40, 3)  failed</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Format Time String (41, 3)  failed</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Format Time String (42, 3)  failed</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Format Time String (44, 3)  failed</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Format Time String (45, 3)  failed</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Format Date/Time String (daylight savings conversion) failed</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>3</Val>
+</EL>
+</Cluster>
+</Array>
+<I32>
+<Name>Id</Name>
+<Val>7</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name>Failure Cluster</Name>
+<NumElts>12</NumElts>
+<Array>
+<Name>VI</Name>
+<Dimsize>3</Dimsize>
+<String>
+<Name>String</Name>
+<Val>Y2KAuto</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>Y2KTests.llb</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>Seconds to DateTime to Seconds.vi</Val>
+</String>
+</Array>
+<EW>
+<Name>Status</Name>
+<Choice></Choice>
+<Choice>new</Choice>
+<Choice>passed</Choice>
+<Choice>known</Choice>
+<Val>3</Val>
+</EW>
+<Boolean>
+<Name>Crash</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Linux</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Mac</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Windows</Name>
+<Val>1</Val>
+</Boolean>
+<String>
+<Name>Comments</Name>
+<Val>	</Val>
+</String>
+<Timestamp>
+<Name>First Reported</Name>
+<Cluster>
+<Name></Name>
+<NumElts>4</NumElts>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>2071986176</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>-911713816</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+</Cluster>
+</Timestamp>
+<String>
+<Name>CAR</Name>
+<Val>156668</Val>
+</String>
+<Boolean>
+<Name>Paused</Name>
+<Val>0</Val>
+</Boolean>
+<Array>
+<Name>failure_desc</Name>
+<Dimsize>3</Dimsize>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Test (12) failed</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Test (13) failed</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>daylight savings time conversion failed</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>3</Val>
+</EL>
+</Cluster>
+</Array>
+<I32>
+<Name>Id</Name>
+<Val>9</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name>Failure Cluster</Name>
+<NumElts>12</NumElts>
+<Array>
+<Name>VI</Name>
+<Dimsize>3</Dimsize>
+<String>
+<Name>String</Name>
+<Val>Y2KAuto</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>Y2KTests.llb</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>NewTestDateRecPrims.vi</Val>
+</String>
+</Array>
+<EW>
+<Name>Status</Name>
+<Choice></Choice>
+<Choice>new</Choice>
+<Choice>passed</Choice>
+<Choice>known</Choice>
+<Val>3</Val>
+</EW>
+<Boolean>
+<Name>Crash</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Linux</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Mac</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Windows</Name>
+<Val>1</Val>
+</Boolean>
+<String>
+<Name>Comments</Name>
+<Val>	</Val>
+</String>
+<Timestamp>
+<Name>First Reported</Name>
+<Cluster>
+<Name></Name>
+<NumElts>4</NumElts>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>2071986176</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>-911713816</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+</Cluster>
+</Timestamp>
+<String>
+<Name>CAR</Name>
+<Val>156668</Val>
+</String>
+<Boolean>
+<Name>Paused</Name>
+<Val>0</Val>
+</Boolean>
+<Array>
+<Name>failure_desc</Name>
+<Dimsize>15</Dimsize>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>RecToDate 0, 0</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>RecToDate 0, 2</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>3</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>RecToDate 0, 3</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>3</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>DateToRec 0</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>RecToDate 1, 0</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>RecToDate 1, 2</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>3</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>RecToDate 1, 3</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>3</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>DateToRec 1</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>RecToDate 2, 1</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>3</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>RecToDate 2, 3</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>3</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>RecToDate 5, 2</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>3</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>RecToDate 6, 2</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>3</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>RecToDate 7, 0</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>RecToDate 7, 2</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>3</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>DateToRec 7</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+</Array>
+<I32>
+<Name>Id</Name>
+<Val>11</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name>Failure Cluster</Name>
+<NumElts>12</NumElts>
+<Array>
+<Name>VI</Name>
+<Dimsize>3</Dimsize>
+<String>
+<Name>String</Name>
+<Val>AppBuilder</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>AB_.NETInteropAssembly_Build</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>TEST_AB_.NETINTEROPASSEMBLY.win.vi</Val>
+</String>
+</Array>
+<EW>
+<Name>Status</Name>
+<Choice></Choice>
+<Choice>new</Choice>
+<Choice>passed</Choice>
+<Choice>known</Choice>
+<Val>2</Val>
+</EW>
+<Boolean>
+<Name>Crash</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>Linux</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Mac</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Windows</Name>
+<Val>1</Val>
+</Boolean>
+<String>
+<Name>Comments</Name>
+<Val>	</Val>
+</String>
+<Timestamp>
+<Name>First Reported</Name>
+<Cluster>
+<Name></Name>
+<NumElts>4</NumElts>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>16777216</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>-859801378</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+</Cluster>
+</Timestamp>
+<String>
+<Name>CAR</Name>
+<Val></Val>
+</String>
+<Boolean>
+<Name>Paused</Name>
+<Val>0</Val>
+</Boolean>
+<Array>
+<Name>failure_desc</Name>
+<Dimsize>1</Dimsize>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>crash</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+</Array>
+<I32>
+<Name>Id</Name>
+<Val>532</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name>Failure Cluster</Name>
+<NumElts>12</NumElts>
+<Array>
+<Name>VI</Name>
+<Dimsize>3</Dimsize>
+<String>
+<Name>String</Name>
+<Val>DataSocket</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>DataSocketwithLVtypes.llb</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>DataSocketWithLVTypes.vi</Val>
+</String>
+</Array>
+<EW>
+<Name>Status</Name>
+<Choice></Choice>
+<Choice>new</Choice>
+<Choice>passed</Choice>
+<Choice>known</Choice>
+<Val>2</Val>
+</EW>
+<Boolean>
+<Name>Crash</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Linux</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Mac</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Windows</Name>
+<Val>1</Val>
+</Boolean>
+<String>
+<Name>Comments</Name>
+<Val>	</Val>
+</String>
+<Timestamp>
+<Name>First Reported</Name>
+<Cluster>
+<Name></Name>
+<NumElts>4</NumElts>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>-494927872</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>-859715240</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+</Cluster>
+</Timestamp>
+<String>
+<Name>CAR</Name>
+<Val></Val>
+</String>
+<Boolean>
+<Name>Paused</Name>
+<Val>0</Val>
+</Boolean>
+<Array>
+<Name>failure_desc</Name>
+<Dimsize>1</Dimsize>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val> test-write-read-cluster-with-random-attributes Failed</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+</Array>
+<I32>
+<Name>Id</Name>
+<Val>533</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name>Failure Cluster</Name>
+<NumElts>12</NumElts>
+<Array>
+<Name>VI</Name>
+<Dimsize>3</Dimsize>
+<String>
+<Name>String</Name>
+<Val>AppBuilder</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>PolyStrip</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>TEST_AB_PolyStrip.vi</Val>
+</String>
+</Array>
+<EW>
+<Name>Status</Name>
+<Choice></Choice>
+<Choice>new</Choice>
+<Choice>passed</Choice>
+<Choice>known</Choice>
+<Val>2</Val>
+</EW>
+<Boolean>
+<Name>Crash</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Linux</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Mac</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Windows</Name>
+<Val>1</Val>
+</Boolean>
+<String>
+<Name>Comments</Name>
+<Val>	</Val>
+</String>
+<Timestamp>
+<Name>First Reported</Name>
+<Cluster>
+<Name></Name>
+<NumElts>4</NumElts>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>2045280256</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>-857392100</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+</Cluster>
+</Timestamp>
+<String>
+<Name>CAR</Name>
+<Val></Val>
+</String>
+<Boolean>
+<Name>Paused</Name>
+<Val>0</Val>
+</Boolean>
+<Array>
+<Name>failure_desc</Name>
+<Dimsize>3</Dimsize>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Appbuilder Error: ..\..\perforce\labview\branches\2012\dev\tests\auto\AppBuilder\PolyStrip\PolyStrip.lvproj -&gt; My Application: Build Failure
+Error IO: 1,
+
+Error 1502 occurred at AB_Source_VI.lvclass:Close_Reference.vi -&gt; AB_Build.lvclass:Save.vi -&gt; AB_Build.lvclass:Copy_Files.vi -&gt; AB_Application.lvclass:Copy_Files.vi -&gt; AB_EXE.lvclass:Copy_Files.vi -&gt; AB_Build.lvclass:Build.vi -&gt; AB_Application.lvclass:Build.vi -&gt; AB_EXE.lvclass:Build.vi -&gt; AB_Engine_Build.vi -&gt; AB_Build_Invoke.vi -&gt; AB_Build_Invoke.vi.ProxyCaller
+
+Possible reason(s):
+
+LabVIEW:  Cannot save a bad VI without its block diagram.
+=========================
+LabVIEW:  Cannot save a bad VI without its block diagram.
+=========================
+LabVIEW:  Cannot save a bad VI without its block diagram.</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>Got wrong result?? Expected 12, got </Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Cluster>
+<Name>error</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>desc</Name>
+<Val>error when running test - An error occurred while saving the following file:
+
+C:\perforce\labview\branches\2012\dev\tests\auto\AppBuilder\PolyStrip\main.vi
+
+
+
+
+Visit the Request Support page at ni.com/ask to learn more about resolving this problem. Use the following information as a reference:
+
+Error 1502 occurred at AB_Source_VI.lvclass:Close_Reference.vi -&gt; AB_Build.lvclass:Save.vi -&gt; AB_Build.lvclass:Copy_Files.vi -&gt; AB_Application.lvclass:Copy_Files.vi -&gt; AB_EXE.lvclass:Copy_Files.vi -&gt; AB_Build.lvclass:Build.vi -&gt; AB_Application.lvclass:Build.vi -&gt; AB_EXE.lvclass:Build.vi -&gt; AB_Engine_Build.vi -&gt; AB_Build_Invoke.vi -&gt; AB_Build_Invoke.vi.ProxyCaller
+
+Possible reason(s):
+
+LabVIEW:  Cannot save a bad VI without its block diagram.
+=========================
+LabVIEW:  Cannot save a bad VI without its block diagram.
+=========================
+LabVIEW:  Cannot save a bad VI without its block diagram.: 1</Val>
+</String>
+<EL>
+<Name>type</Name>
+<Choice>generic failure</Choice>
+<Choice>boundary case</Choice>
+<Choice>precision</Choice>
+<Choice>expected error</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+</Array>
+<I32>
+<Name>Id</Name>
+<Val>534</Val>
+</I32>
+</Cluster>
+</Array>

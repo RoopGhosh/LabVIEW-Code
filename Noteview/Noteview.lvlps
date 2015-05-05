@@ -1,0 +1,45 @@
+[ProjectWindow_Data]
+ProjectExplorer.ClassicPosition[String] = "29,1284,1030,2560"
+
+[AB_Cache_{740FB6AA-DB38-493E-AE8C-3995E67EA712}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "b64d8287015a203688d88b4f3fc775e2"
+Cache_GenFile_Count[Integer] = 3
+Cache_GenFile[0][Path] Line0001 = "/C/Users/inghoshr/builds/My App/My Zip File/"
+Cache_GenFile[0][Path] Line0002 = "cline argue sd/builds/Noteview/cline argue/A"
+Cache_GenFile[0][Path] Line0003 = "pplication.exe"
+Cache_GenFile[1][Path] Line0001 = "/C/Users/inghoshr/builds/My App/My Zip File/"
+Cache_GenFile[1][Path] Line0002 = "cline argue sd/builds/Noteview/cline argue/A"
+Cache_GenFile[1][Path] Line0003 = "pplication.aliases"
+Cache_GenFile[2][Path] Line0001 = "/C/Users/inghoshr/builds/My App/My Zip File/"
+Cache_GenFile[2][Path] Line0002 = "cline argue sd/builds/Noteview/cline argue/A"
+Cache_GenFile[2][Path] Line0003 = "pplication.ini"
+Cache_GenGUID_Count[Integer] = 3
+Cache_GenGUID[0][String] = "{E084B1E5-54E3-432B-8142-DD57C4D32D02}"
+Cache_GenGUID[1][String] = "{B45766CC-0808-4672-9905-997BDA5FE33D}"
+Cache_GenGUID[2][String] = "{6F78703A-3D73-4014-AF3B-2BBDB9902A26}"
+Cache_OutputDir[Path] Line0001 = "/C/Users/inghoshr/builds/My App/My Zip File/c"
+Cache_OutputDir[Path] Line0002 = "line argue sd/builds/Noteview/cline argue"
+
+[AB_Cache_{7B531016-572B-4CB6-BD38-C235FCC4E303}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "b64d8287015a203688d88b4f3fc775e2"
+Cache_GenFile_Count[Integer] = 3
+Cache_GenFile[0][Path] Line0001 = "/C/Users/inghoshr/builds/My App/My Zip File/"
+Cache_GenFile[0][Path] Line0002 = "cline argue sd/builds/Noteview/cline argue/A"
+Cache_GenFile[0][Path] Line0003 = "pplication.exe"
+Cache_GenFile[1][Path] Line0001 = "/C/Users/inghoshr/builds/My App/My Zip File/"
+Cache_GenFile[1][Path] Line0002 = "cline argue sd/builds/Noteview/cline argue/A"
+Cache_GenFile[1][Path] Line0003 = "pplication.aliases"
+Cache_GenFile[2][Path] Line0001 = "/C/Users/inghoshr/builds/My App/My Zip File/"
+Cache_GenFile[2][Path] Line0002 = "cline argue sd/builds/Noteview/cline argue/A"
+Cache_GenFile[2][Path] Line0003 = "pplication.ini"
+Cache_GenGUID_Count[Integer] = 3
+Cache_GenGUID[0][String] = "{E084B1E5-54E3-432B-8142-DD57C4D32D02}"
+Cache_GenGUID[1][String] = "{B45766CC-0808-4672-9905-997BDA5FE33D}"
+Cache_GenGUID[2][String] = "{6F78703A-3D73-4014-AF3B-2BBDB9902A26}"
+Cache_OutputDir[Path] Line0001 = "/C/Users/inghoshr/builds/My App/My Zip File/c"
+Cache_OutputDir[Path] Line0002 = "line argue sd/builds/Noteview/cline argue"
+

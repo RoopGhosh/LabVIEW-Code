@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<config>
+<Native_LV_Version>2013</Native_LV_Version>
+<LV-1>2012</LV-1>
+<LV-2>2011</LV-2>
+<LV-3>2010</LV-3>
+<Native_2013>Native\NATIVE2013--IAT_Windows_7_32.xml</Native_2013>
+<Install-Run2010>Native\NATIVE2010--failureDB_32.xml</Install-Run2010>
+<Install2013-Run2010>2010-2013\UG_IAT_Windows_7_32 2010run1.xml</Install2013-Run2010>
+<Install2010-Install2013-Run2013>2010-2013\UG_IAT_Windows_7_32 2010run2.xml</Install2010-Install2013-Run2013>
+<Uninstall2013-Run2010>2010-2013\UG_IAT_Windows_7_32 2010run3.xml</Uninstall2013-Run2010>
+<Install-Run2011>Native\NATIVE2011--IAT_Windows_7_32.xml</Install-Run2011>
+<Install2013-Run2011>2011-2013\UG_IAT_Windows_7_322011run1.xml</Install2013-Run2011>
+<Install2011-Install2013-Run2013>2011-2013\UG_IAT_Windows_7_322011run2.xml</Install2011-Install2013-Run2013>
+<Uninstall2013-Run2011>2011-2013\UG_IAT_Windows_7_322011run3.xml</Uninstall2013-Run2011>
+<Install-Run2012>Native\NATIVE2012--IAT_Windows_7_32.xml</Install-Run2012>
+<Install2013-Run2012>2012-2013\UG_IAT_Windows_7_32 2012run1.xml</Install2013-Run2012>
+<Install2012-Install2013-Run2013>2012-2013\UG_IAT_Windows_7_32 2012run2.xml</Install2012-Install2013-Run2013>
+<Uninstall2013-Run2012>2012-2013\UG_IAT_Windows_7_32 2012run3.xml</Uninstall2013-Run2012>
+</config>
+
+
+
